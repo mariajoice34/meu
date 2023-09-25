@@ -1,0 +1,14 @@
+ img{
+    width: 100px;
+ }
+  #foto{
+   display: flex;
+   justify-content: space-evenly;
+   
+  }
+
+  button{
+    width: 150px;
+    height: 25px;
+  }
+  
