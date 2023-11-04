@@ -4,7 +4,7 @@
   #foto{
    display: flex;
    justify-content:space-between;
-   background-color: aliceblue;
+   
   }
 
   .button1{
@@ -17,6 +17,7 @@
     flex-direction: row;
     margin: 30px;
     justify-content: flex-end;
+    cursor: pointer;
   }
   .button2{
     height: 20px;
@@ -27,6 +28,7 @@
     color: #ffffff;
     flex-direction: row;
     margin: 30px;
+    cursor: pointer;
   }
   .button3{
     height: 20px;
@@ -37,5 +39,6 @@
     color: #ffffff;
     flex-direction: row;
     margin: 30px;
+    cursor: pointer;
   }
   
