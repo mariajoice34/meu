@@ -1,6 +1,7 @@
 img{
     width: 100px;
  }
+ 
   #foto{
    display: flex;
    justify-content:space-between;
@@ -11,7 +12,7 @@ img{
     height: 20px;
     width: 150px;
     border-radius: 4px;
-    background-color: #00BFFF;
+    background-color:  #000000f9;
     border: none;
     color: #ffffff;
     flex-direction: row;
@@ -22,7 +23,7 @@ img{
     height: 20px;
     width: 150px;
     border-radius: 4px;
-    background-color: #00BFFF;
+    background-color:  #000000f9;
     border: none;
     color: #ffffff;
     flex-direction: row;
@@ -32,7 +33,7 @@ img{
     height: 20px;
     width: 150px;
     border-radius: 4px;
-    background-color: #00BFFF;
+    background-color:  #000000f9;
     border: none;
     color: #ffffff;
     flex-direction: row;

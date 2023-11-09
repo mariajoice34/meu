@@ -1,3 +1,5 @@
+ 
+ 
  img{
     width: 100px;
  }
@@ -11,7 +13,7 @@
     height: 20px;
     width: 150px;
     border-radius: 4px;
-    background-color: #00BFFF;
+    background-color: #000000f9;
     border: none;
     color: #ffffff;
     flex-direction: row;
@@ -23,7 +25,7 @@
     height: 20px;
     width: 150px;
     border-radius: 4px;
-    background-color: #00BFFF;
+    background-color:  #000000f9;
     border: none;
     color: #ffffff;
     flex-direction: row;
@@ -34,11 +36,12 @@
     height: 20px;
     width: 150px;
     border-radius: 4px;
-    background-color: #00BFFF;
+    background-color: #000000f9;
     border: none;
     color: #ffffff;
     flex-direction: row;
     margin: 30px;
     cursor: pointer;
   }
+
   
