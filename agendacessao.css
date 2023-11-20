@@ -77,4 +77,27 @@ img{
     color: #00BFFF;
  }
 
+ .but1{
+   background-color: rgba(0, 0, 0, 0.976);
+   color: white;
+   border-radius: 20px; 
+   border-bottom: 5px solid rgba(0, 0, 0, 0.976) ;
+ }
+
+ .but2{
+  background-color: rgba(0, 0, 0, 0.976);
+  color: white;
+  border-radius: 20px; 
+  border-bottom: 5px solid rgba(0, 0, 0, 0.976);
+ 
+ 
+}
+
+.app{
+  width: 30px;
+}
+ 
+.play{
+  width: 30px;
+}
 
