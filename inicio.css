@@ -64,14 +64,3 @@ p1{
 a{
     color: bisque;
 }
-
-@media screen  and (max-width: 1010px){
-    .conteiner{
-        display: none;
-
-    }
-    .texto{
-        width: 400px;
-        text-align: center;
-    }
-}
