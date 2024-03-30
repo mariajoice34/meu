@@ -1,16 +1,22 @@
  
  
  img{
-    width: 100px;
+    width: 250px;
+    height: px;
+    
  }
   #foto{
    display: flex;
    justify-content:space-between;
+    height: 100px;
+    width: 100%;
+    padding: 20px;
+    position: fixed;
    
   }
 
   .button1{
-    height: 20px;
+    height: 30px;
     width: 150px;
     border-radius: 4px;
     background-color: #000000f9;
@@ -22,7 +28,7 @@
     cursor: pointer;
   }
   .button2{
-    height: 20px;
+    height: 30px;
     width: 150px;
     border-radius: 4px;
     background-color:  #000000f9;
@@ -33,7 +39,7 @@
     cursor: pointer;
   }
   .button3{
-    height: 20px;
+    height: 30px;
     width: 150px;
     border-radius: 4px;
     background-color: #000000f9;
@@ -43,5 +49,7 @@
     margin: 30px;
     cursor: pointer;
   }
+  
+
 
   

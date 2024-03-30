@@ -1,15 +1,21 @@
 img{
     width: 100px;
+
  }
  
   #foto{
    display: flex;
    justify-content:space-between;
-   background-color: aliceblue;
+   background-color: #fff;
+    height: 100px;
+    width: 100%;
+    padding: 20px;
+    position: fixed;
+   
   }
 
   .button1{
-    height: 20px;
+    height: 30px;
     width: 150px;
     border-radius: 4px;
     background-color:  #000000f9;
@@ -20,7 +26,7 @@ img{
     justify-content: flex-end;
   }
   .button2{
-    height: 20px;
+    height: 30px;
     width: 150px;
     border-radius: 4px;
     background-color:  #000000f9;
@@ -30,7 +36,7 @@ img{
     margin: 30px;
   }
   .button3{
-    height: 20px;
+    height: 30px;
     width: 150px;
     border-radius: 4px;
     background-color:  #000000f9;
@@ -40,8 +46,9 @@ img{
     margin: 30px;
   }
   #container {
-    
+   
     margin-top: 100px;
+   
 }
   
 .texto{
@@ -50,11 +57,11 @@ img{
 }
 
 .img2 {
-    width: 400px;
+  
+    width: 700px;
     height: auto;
     float: right;
-    margin-top: -50px;
-    margin-right: 50px; 
+    
 }
 
 .img1{ 
@@ -77,27 +84,23 @@ img{
     color: #00BFFF;
  }
 
- .but1{
-   background-color: rgba(0, 0, 0, 0.976);
-   color: white;
-   border-radius: 20px; 
-   border-bottom: 5px solid rgba(0, 0, 0, 0.976) ;
- }
+ 
 
- .but2{
-  background-color: rgba(0, 0, 0, 0.976);
-  color: white;
-  border-radius: 20px; 
-  border-bottom: 5px solid rgba(0, 0, 0, 0.976);
+
  
- 
+
+.colona1 {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
-.app{
-  width: 30px;
-}
- 
-.play{
-  width: 30px;
-}
+
+
+
+
+
+
+
 
