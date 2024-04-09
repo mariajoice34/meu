@@ -10,7 +10,7 @@ img{
     height: 100px;
     width: 100%;
     padding: 20px;
-    position: fixed;
+   
    
   }
 
@@ -86,17 +86,56 @@ img{
 
  
 
-
- 
-
-.colona1 {
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
+.container1 {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wreap;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
+.colona1,
+.colona2,
+.colona3,
+.colona4{
+  flex: 1;
+  padding: 0 15px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #00BFFF;
+  
+ 
+}
 
+.fim{
+  flex-basis: calc(50% - 30px);
+  box-sizing: border-box;
+  margin-top: 15px;
+}
+
+.rodape {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  color: #5555559a;
+ 
+  
+}
+
+.paragrafo{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #55555569;
+}
+
+.ti{
+  color: #55555569;
+}
 
 
 
