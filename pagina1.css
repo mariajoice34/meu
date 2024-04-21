@@ -13,9 +13,9 @@
   }
 
   .button1{
-    height: 50px;
+    height: 30px;
     width: 150px;
-    border-radius: 30px;
+    border-radius: 20px;
     background-color: #000000f9;
     border: none;
     color: #ffffff;
@@ -25,9 +25,9 @@
     cursor: pointer;
   }
   .button2{
-    height: 50px;
+    height: 30px;
     width: 150px;
-    border-radius: 30px;
+    border-radius: 20px;
     background-color:  #000000f9;
     border: none;
     color: #ffffff;
@@ -36,9 +36,9 @@
     cursor: pointer;
   }
   .button3{
-    height:50px;
+    height:30px;
     width: 150px;
-    border-radius: 30px;
+    border-radius: 20px;
     background-color: #000000f9;
     border: none;
     color: #ffffff;
