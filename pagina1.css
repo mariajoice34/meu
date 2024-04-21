@@ -13,7 +13,7 @@
   }
 
   .button1{
-    height: 30px;
+    height: 35px;
     width: 150px;
     border-radius: 20px;
     background-color: #000000f9;
@@ -25,7 +25,7 @@
     cursor: pointer;
   }
   .button2{
-    height: 30px;
+    height: 35px;
     width: 150px;
     border-radius: 20px;
     background-color:  #000000f9;
@@ -36,7 +36,7 @@
     cursor: pointer;
   }
   .button3{
-    height:30px;
+    height:35px;
     width: 150px;
     border-radius: 20px;
     background-color: #000000f9;
