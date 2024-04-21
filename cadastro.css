@@ -1,6 +1,16 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-image: url(fundo.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 500px;
+    height: 500px;
+    padding: 15px;
+
     
  
 }
@@ -10,7 +20,7 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color:white;
+    background-color:rgba(255, 255, 255, 0.38);
     padding: 15px;
     border-radius: 15px;
  
@@ -22,10 +32,10 @@ fieldset{
 }
 
 legend{
-    border: 1px solid dodgerblue;
+    border: 1px solid rgba(30, 143, 255, 0.374);
     padding: 10px;
     text-align: center;
-    background-color: dodgerblue;
+    background-color: rgba(30, 143, 255, 0.281);
     border-radius: 8px;
     
 }
@@ -54,7 +64,7 @@ legend{
 .inputuser:valid ~ .input{
     top: -20px;
     font-size: 12px;
-    color: dodgerblue;
+    color: rgba(30, 143, 255, 0.357);
 }
 
 #data_nascimento{
@@ -66,7 +76,7 @@ legend{
 }
 
 #submit{
-    background-image:  linear-gradient(to right,rgb(0, 92,197), rgb(90,20,220));
+    background-image:  linear-gradient(to right,rgba(0, 92, 197, 0.333), rgba(90, 20, 220, 0.824));
     width: 100%;
     border: none;
     padding: 15px;
@@ -77,5 +87,5 @@ legend{
 }
 
 #submit:hover{
-    background-image: linear-gradient(to right, rgb(0,80,172), rgb(80, 19, 195));
+    background-image: linear-gradient(to right, rgba(0, 80, 172, 0.217), rgba(81, 19, 195, 0));
 }

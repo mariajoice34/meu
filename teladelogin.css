@@ -18,7 +18,7 @@
     height: 480px;
     position: relative;
     margin: 6% auto;
-    background: #ffffff9d;
+    background: #fffffff3;
     padding: 5px;
     overflow: hidden;
     
@@ -94,7 +94,7 @@
 
 
 }
-span{
+.span{
 color: #777;
 font-size: 12px ;
 bottom: 68px;
