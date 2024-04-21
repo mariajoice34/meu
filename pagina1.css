@@ -1,18 +1,15 @@
  
  
  img{
-    width: 250px;
+    width: 150px;
     height: px;
     
  }
   #foto{
    display: flex;
    justify-content:space-between;
-   height: 175px;
    width: 100%;
-   padding: 20px;
    position: fixed;
-   
   }
 
   .button1{
@@ -49,7 +46,9 @@
     margin: 30px;
     cursor: pointer;
   }
-  
+
+
+.
 
 
   
