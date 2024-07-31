@@ -29,25 +29,17 @@ body {
 }
 
 .texto {
-   
+    font-family: Arial;
     width: 600px;
     display: flex;
     align-items: center;
     flex-direction: column;
     text-align: justify;
+    color: #fff;
 
 }
 
-.cor{
-    color: #ffffff;
-}
-.p{
-    color: #ffffff;
-}
 
-p1{
-    color: #ffffff;
-}
 .circular-button {
     border-radius: 4px;
     background-color: #f4511e;
